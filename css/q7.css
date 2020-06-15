@@ -226,6 +226,7 @@ a:hover {
    /* Standard syntax */
    @keyframes gradiente {
      0%   {color: black;}
+     50%  {color: var(--white);}
      100% {color: #000000;}
    }
 
