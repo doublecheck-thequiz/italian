@@ -340,12 +340,12 @@ a:hover.sottolineatura {
 
 #PrevVIOLA {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 90%;
   cursor: pointer;
 }
 
 #NextVIOLA {
-  width: 63%;
+  width: 90%;
   margin-right: 1.5rem;
   float: right;
   cursor: pointer;
@@ -353,12 +353,12 @@ a:hover.sottolineatura {
 
 #PrevCYAN {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 90%;
   cursor: pointer;
 }
 
 #NextCYAN {
-  width: 63%;
+  width: 90%;
   margin-right: 1.5rem;
   float: right;
   cursor: pointer;
@@ -366,12 +366,12 @@ a:hover.sottolineatura {
 
 #PrevGREEN {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 90%;
   cursor: pointer;
 }
 
 #NextGREEN {
-  width: 63%;
+  width: 90%;
   margin-right: 1.5rem;
   float: right;
   cursor: pointer;
@@ -379,9 +379,9 @@ a:hover.sottolineatura {
 
 #PrevYELLOW {
   margin-left: 1.5rem;
-  width: 63%;
+  width: 90%;
   cursor: pointer;
-  margin-bottom: -14.5rem;
+  margin-bottom: -27.5rem;
 }
 
 #gotoquiz {

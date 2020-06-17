@@ -529,10 +529,11 @@ a:hover {
 }
 
 #next1 {
-  width: 60%;
+  width: 100%;
   height: auto;
   z-index: 100;
   cursor: pointer;
+  margin-left: 2.3rem;
 }
 
 #end1 {
