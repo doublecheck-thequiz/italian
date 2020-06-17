@@ -217,7 +217,7 @@ a:hover {
 .cls-10 {
   font-size: 40px;
   fill: #1d1d1b;
-  font-family: BandeinsStrangeBold, Bandeins Strange;
+  font-family: var(--font-bold);
 }
 
 .cls-11 {
@@ -468,7 +468,7 @@ a:hover {
 .cls-50,
 .cls-45 {
   font-size: 40px;
-  font-family: BandeinsStrangeSemiBold, Bandeins Strange;
+  font-family: var(--font-semibold);
 }
 
 .cls-46 {
@@ -566,13 +566,14 @@ a:hover {
 
 #war {
   padding-top: 5%;
+  width: 95%;
 }
 
-.buttons {
-  width: 20%;
+#buttons {
+  width: 25%;
   float: right;
   position: fixed;
-  left: 79%;
+ padding-left: 0.9rem !important;
 }
 
 /* Transizione */
@@ -720,12 +721,15 @@ a:hover {
     padding-top: 20%;
   }
 
+ .wardiv {
+   text-align: center;
+ }
 
   .buttons {
     width: 30%;
-    float: right;
+    /* float: right; */
     position: fixed;
-    left: 68%;
+    left: 8%;
     top: 90%;
   }
 
